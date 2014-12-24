@@ -5,5 +5,5 @@
 ```sh
 michel
 
-Epic potatoe
+Epic Potatoe
 ```
